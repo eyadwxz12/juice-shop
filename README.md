@@ -85,7 +85,6 @@ For a detailed introduction, full list of features and architecture overview ple
 3. Unpack and `cd` into the unpacked folder
 4. Run `npm start`
 5. Browse to <http://localhost:3000>
-
 > Each packaged distribution includes some binaries for `sqlite3` and
 > `libxmljs2` bound to the OS and node.js version which `npm install` was
 > executed on.
@@ -241,3 +240,4 @@ OWASP Juice Shop and any contributions are Copyright © by Bjoern Kimminich & th
 2014-2026.
 
 ![Juice Shop Logo](https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_400px.png)
+Trigger Semgrep workflow
